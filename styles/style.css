@@ -149,7 +149,7 @@ ol {
 }
 
 .search-form .search-form__checkbox:checked + .search-form__pseudo-checkbox::after { 
-  content: ""; 
+  content: "";
 }
 
 .search-form__label:has(.search-form__checkbox):hover {
