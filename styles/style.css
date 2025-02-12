@@ -148,8 +148,8 @@ ol {
   background-color: #FFFFFF;
 }
 
-.search-form .search-form__checkbox:checked + .search-form__pseudo-checkbox::after { 
-  content: "";
+.search-form__checkbox:checked + .search-form__pseudo-checkbox::after {
+  content:"";
 }
 
 .search-form__label:has(.search-form__checkbox):hover {
